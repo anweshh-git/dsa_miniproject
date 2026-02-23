@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CampusMap",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CampusMap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CampusMap-Debug-40b7701ef51ec2e9f96b.json",
+					"name" : "CampusMap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CampusMap_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CampusMap_autogen-Debug-550c07b702c107365a37.json",
+					"name" : "CampusMap_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CampusMap_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CampusMap_autogen_timestamp_deps-Debug-a0a83f62d9dcfbd90279.json",
+					"name" : "CampusMap_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/DSA_miniproject/CampusMap/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "D:/DSA_miniproject/CampusMap"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,5 @@
+D:/DSA_miniproject/CampusMap/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/CampusMap.dir
+D:/DSA_miniproject/CampusMap/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/DSA_miniproject/CampusMap/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/DSA_miniproject/CampusMap/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/CampusMap_autogen_timestamp_deps.dir
+D:/DSA_miniproject/CampusMap/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/CampusMap_autogen.dir
